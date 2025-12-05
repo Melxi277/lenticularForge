@@ -1,0 +1,5 @@
+{
+  "name": "LenticularForge",
+  "description": "专业的在线光栅图生成工具，支持自定义LPI、DPI和打印尺寸，适用于制作3D立体或变画效果。",
+  "requestFramePermissions": []
+}
